@@ -7,3 +7,7 @@
 ``` Python
 print("Hello ,I added a code terminal to this file")
 ```
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
